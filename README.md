@@ -1,3 +1,4 @@
+<img src="/Sample/Logo.png" width="240">
 #\#HashTagger
 
 ##What is HashTagger?
