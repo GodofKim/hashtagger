@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.shorten {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 20px;
+  font-size: 16px;
+  color : #555555;
+}
+
+.footer {
+  font-size: 13px;
+  color : #CCCCCC;
+}

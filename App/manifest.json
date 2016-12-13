@@ -1,0 +1,20 @@
+{
+    "manifest_version": 2,
+
+    "name": "#HashTagger",
+    "description": "Recommends you nice tags",
+    "version": "1.0",
+
+    "browser_action": {
+        "default_icon": "icon.png",
+        "default_popup": "index.html"
+    },
+    "icons": {
+      "16": "./icons/icon16.png",
+      "48": "./icons/icon48.png",
+      "128": "./icons/icon128.png"
+    },
+    "permissions": [
+        "activeTab"
+    ]
+}
